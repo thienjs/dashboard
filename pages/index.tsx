@@ -3,8 +3,9 @@ import Layout from '../components/Layout'
 import Menu from '../components/Menu'
 
 const IndexPage = () => (
-  <Layout title="Home | Next.js + TypeScript Example">
-    <h1>Hello Next.js 👋</h1>
+  <Layout title="thien | dashboard">
+    <h1>Hello you've found my dashboard. 👋</h1>
+    <p>this is where i learn</p>
     <p>
       <Link href="/about">
         <a>About</a>
